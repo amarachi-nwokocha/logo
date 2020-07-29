@@ -1,0 +1,35 @@
+*{
+    margin: 0rem;
+    padding: 0rem;
+    box-sizing: border-box;
+}
+body{
+    display: block;
+    text-align: center;
+}
+.d-flex{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 0rem;
+    margin: 0rem;
+    margin-top: 2rem;
+}
+.it{
+    margin-right: -2rem;
+    margin-left: -6rem;
+}
+.sw{
+    margin: -9rem;
+    margin-left: -6rem;
+}
+.ap{
+    margin-right: -3rem;
+    margin-left: -3rem;
+    width: 10rem;
+}
+.pic2{
+    display: flex;
+    justify-content: space-between;
+    padding: 0rem;
+    margin: 0rem;
+}
